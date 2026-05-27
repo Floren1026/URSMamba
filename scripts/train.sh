@@ -1,0 +1,2 @@
+CUDA_VISIBLE_DEVICES=0 python3 train.py --imageSize 128 --batch_stegs 1 --num_secret 1 
+# --train_continue 1 --trained_epochs 9 --lr_H 0.001 --lr_R 0.001 --Model_dir 2025-04-21_16:21:53_100_0.001_0.001_0.75_0.75_0.75_l2_1In1

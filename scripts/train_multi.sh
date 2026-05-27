@@ -1,0 +1,2 @@
+CUDA_VISIBLE_DEVICES=0 python3 train_multi.py --imageSize 144 --batch_stegs 1 --num_secret 1  
+# --train_continue True --trained_epochs 237 --Model_dir '2025-06-14_17:07:26_144_0.001_0.001_0.75_l2_8In3'

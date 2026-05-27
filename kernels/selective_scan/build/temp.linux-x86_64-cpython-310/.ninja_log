@@ -1,0 +1,7 @@
+# ninja log v5
+0	7409	1750930243017002919	/home/young/code/URSMamba/kernels/selective_scan/build/temp.linux-x86_64-cpython-310/csrc/selective_scan/cusoflex/selective_scan_core_fwd.o	dc7668f571744b6d
+0	9152	1750930244762020081	/home/young/code/URSMamba/kernels/selective_scan/build/temp.linux-x86_64-cpython-310/csrc/selective_scan/cusoflex/selective_scan_oflex.o	9f7a250f0e8cc5bc
+0	19394	1750930254998120774	/home/young/code/URSMamba/kernels/selective_scan/build/temp.linux-x86_64-cpython-310/csrc/selective_scan/cusoflex/selective_scan_core_bwd.o	6a7e1a844375bb70
+4	5288	1750937474134061422	/home/young/code/URSMamba/kernels/selective_scan/build/temp.linux-x86_64-cpython-310/csrc/selective_scan/cus/selective_scan_core_fwd.o	3193fd2f04418b26
+3	9023	1750937477871093882	/home/young/code/URSMamba/kernels/selective_scan/build/temp.linux-x86_64-cpython-310/csrc/selective_scan/cus/selective_scan.o	47f2eac36d80608f
+4	12542	1750937481384124444	/home/young/code/URSMamba/kernels/selective_scan/build/temp.linux-x86_64-cpython-310/csrc/selective_scan/cus/selective_scan_core_bwd.o	90c56f45f0afb035
