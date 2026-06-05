@@ -69,6 +69,21 @@ If you only want to test the performance:
  sh scripts/test_multi.py
 ```
 
+### Analysis Tools
+
+We support analysis tools for security and robustness of steganography, including:
+
+```bash
+# recovery ability under noise attack
+python robustness.py
+
+# Analyze the changes in each channel
+channel_analysis.ipynb
+
+```
+
+***We also included other analysing tools that we may use in this project. Thanks to all who have contributes to these tools.***
+
 ## Citation
 If our work is useful for your research, please consider citing:
 
@@ -84,4 +99,4 @@ If our work is useful for your research, please consider citing:
 ```
 
 ## Acknowledgment
-This project is based on [VMamba](https://github.com/MzeroMiko/VMamba), thanks for their excellent works and all the contributors for open-sourcing.
+This project is based on [VMamba](https://github.com/MzeroMiko/VMamba) and [UDH](https://github.com/ChaoningZhang/Universal-Deep-Hiding), thanks for their excellent works and all the contributors for open-sourcing.
