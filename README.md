@@ -1,8 +1,7 @@
 <div align="center">
 <h1>URSMamba </h1>
-<h3>URSMamba: Universal remote sensing image steganography using state space model</h3>
+<h3>URSMamba: Universal remote sensing image steganography using state space model(https://www.sciencedirect.com/science/article/abs/pii/S0893608026005939)</h3>
 
-Paper: (https://www.sciencedirect.com/science/article/abs/pii/S0893608026005939)
 </div>
 
 ## Getting Started
