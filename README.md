@@ -83,7 +83,6 @@ channel_analysis.ipynb
 
 ```
 
-***We also included other analysing tools that we may use in this project. Thanks to all who have contributes to these tools.***
 
 ## Citation
 If our work is useful for your research, please consider citing:
