@@ -44,6 +44,7 @@ cd kernels/selective_scan && pip install .
 
 ### Quick Start
 **Natural images steganography**
+
 To train models for steganography on natural datasets, use the following commands:
 ```bash
 sh scripts/train.sh
@@ -57,6 +58,7 @@ If you only want to test the performance:
 Correctly set the path and checkpoint of the pre-trained model in test.sh. The path must be consistent with the path automatically generated after training.
 
 **Multispectral remote sensing images steganography**
+
 To train models for steganography on natural datasets, use the following commands:
 ```bash
 sh scripts/train_multi.sh
