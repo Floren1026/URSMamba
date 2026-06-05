@@ -9,9 +9,9 @@ Paper: (https://www.sciencedirect.com/science/article/abs/pii/S0893608026005939)
 
 ### Installation(followed by VMamba)
 
-**Step 1: Clone the VMamba repository:**
+**Step 1: Clone the URSMamba repository:**
 
-To get started, first clone the VMamba repository and navigate to the project directory:
+To get started, first clone the URSMamba repository and navigate to the project directory:
 
 ```bash
 git clone https://github.com/Floren1026/URSMamba.git
@@ -33,7 +33,6 @@ conda activate ursmamba
 ***Install Dependencies***
 
 ```bash
-pip install -r requirements.txt
 cd kernels/selective_scan && pip install .
 ```
 
