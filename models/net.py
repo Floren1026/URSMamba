@@ -2,7 +2,6 @@ import math
 import torch
 from torch import nn
 from models.vmamba_modify import VSSM
-# from models.vmamba import VSSM
 from models.wavelet import DWT_2D, IDWT_2D
 
 class LayerNorm2d(nn.LayerNorm):
